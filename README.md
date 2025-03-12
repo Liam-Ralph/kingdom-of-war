@@ -1,3 +1,5 @@
+# This project has been archived.
+
 # Kingdom of War
 ### Released May 2022
 ### Version 1.2
